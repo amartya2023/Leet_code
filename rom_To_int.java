@@ -23,5 +23,7 @@ public class rom_To_int {
         System.out.println("Enter a Integer to Conver");
         String s = sc.next();
         System.out.println("The result is: " + romanToInt(s));
+
+        sc.close();
     }
 }

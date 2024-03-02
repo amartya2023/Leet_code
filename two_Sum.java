@@ -34,5 +34,7 @@ public class two_Sum {
         } else {
             System.out.println("No solution found.");
         }
+
+        sc.close();
     }
 }
